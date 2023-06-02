@@ -1,0 +1,4 @@
+venv/
+faculties/migrations
+applicants/migrations
+.vscode
