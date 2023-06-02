@@ -8,7 +8,7 @@
 Open a terminal window and type the following commands
 
 ``` 
-$ git clone https://github.com/ElCirko/Shaurmichnaya-u-Gurama && cd Shaurmichnaya-u-Gurama/backend
+$ graduate-work/backend
 $ python -m venv venv
 $ . venv/bin/activate
 $ pip install -r requirements.txt
